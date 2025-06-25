@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/survey-pro/static/css/main.72b080fb.css",
+    "main.js": "/survey-pro/static/js/main.6139e260.js",
+    "index.html": "/survey-pro/index.html",
+    "main.72b080fb.css.map": "/survey-pro/static/css/main.72b080fb.css.map",
+    "main.6139e260.js.map": "/survey-pro/static/js/main.6139e260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b080fb.css",
+    "static/js/main.6139e260.js"
+  ]
+}
